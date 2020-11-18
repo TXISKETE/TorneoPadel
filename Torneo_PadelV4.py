@@ -4,7 +4,7 @@ import sys
 
 # VARIABLES. 
 # El backup se usa para volver a llenar la lista jugadores cuando alguna pareja coincida con los anteriores
-jugadores = ["Fran", "Txerra", "Gabri", "Aitor", "Pikaza", "Sergi", "Garro", "Josu"]
+jugadores = ["Fran", "Txerra", "Gabri", "Javi", "Pikaza", "Sergi", "Garro", "Josu"]
 jugadores_backup = jugadores.copy()
 anteriores =[["Fran", "Txerra"],["Gabri", "Garro"],["Josu", "Pikaza"],["Aitor", "Sergi"],["Fran", "Sergi"],["Gabri", "Josu"],["Aitor", "Pikaza"],["Garro", "Txerra"]]
 
