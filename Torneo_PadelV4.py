@@ -9,7 +9,7 @@ jugadores_backup = jugadores.copy()
 anteriores =[["Fran", "Txerra"],["Gabri", "Garro"],["Josu", "Pikaza"],["Aitor", "Sergi"],["Fran", "Sergi"],["Gabri", "Josu"],["Aitor", "Pikaza"],["Garro", "Txerra"]]
 
 # PRESENTACION DE LAS REGLAS DEL SORTEO
-print("\nSORTEO PARA EL TORNEO DE PADEL NOVIEMBRE 2020\n")
+print("\nSORTEO PARA EL SEGUNDO TORNEO DE PADEL NOVIEMBRE 2020\n")
 time.sleep(2)
 print("Las parejas no podran coincidir con las de los anteriores torneos, que fueron las siguientes:\n")
 time.sleep(3)
